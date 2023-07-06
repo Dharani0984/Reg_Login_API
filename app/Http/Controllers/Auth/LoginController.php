@@ -40,9 +40,6 @@ class LoginController extends Controller
 }
 
 /*
-Edit this file online side
-Edit this file online side
-Edit this file online side
 
-Edit this file offline side
+This is 2nd Branch Edit this file offline side 
 */
